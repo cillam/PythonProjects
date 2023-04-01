@@ -1,4 +1,4 @@
-#Wordle_Final_Project
+#Wordle_FinalProject
 
 This is a Wordle program built using the Tkinter GUI library. The main file to run is 
 Wordle_FinalProject_PriscillaMiller.py, which pulls some GUI elements from the tiles.py file along with functionality 
