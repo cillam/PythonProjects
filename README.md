@@ -1,3 +1,3 @@
-# PythonProjects
+# Python Projects
 
 Coding portfolio
